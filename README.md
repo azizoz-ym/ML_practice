@@ -1,6 +1,6 @@
 # pandas_practice
 I am new to data science. In this repository I upload files and codes I have learned.
-My goal is to upload a code per day. 
+My goal is to upload at least one code per day. 
 
 dd/mm/yyyy
 
