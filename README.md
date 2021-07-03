@@ -1,2 +1,2 @@
 # pandas_practice
-Practicing selecting subset of DataFrame
+Practicing pandas using library.
