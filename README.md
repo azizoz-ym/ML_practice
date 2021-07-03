@@ -4,5 +4,12 @@ My goal is to upload at least one code per day.
 
 dd/mm/yyyy
 
-Day_1 (03.06.2021): pandas_practice_SelectingDataFrames.py
+* Day_1 (03.06.2021)
+1) pandas_practice_01_SelectingDataFrames.py
+2) pandas_practice_02_ReadAndWriteTabularData.py
+3) pandas_practice_03_SelectingDataFrames.py
+4) pandas_practice_04_Createplots.py
+5) pandas_practice_05_CreateNewColumns.py
+
+
 
