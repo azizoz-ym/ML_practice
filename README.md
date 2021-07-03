@@ -1,2 +1,2 @@
 # pandas_practice
-Practicing pandas using library.
+Practicing using pandas library.
