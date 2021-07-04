@@ -11,5 +11,7 @@ dd/mm/yyyy
 4) pandas_practice_04_Createplots.py
 5) pandas_practice_05_CreateNewColumns.py
 
-
+* Day_2 (04.06.2021)
+1) pandas_practice_06_CalculatingStatistics.py
+2) 
 
