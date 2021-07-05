@@ -17,4 +17,5 @@ dd/mm/yyyy
 * Day_3 (05.06.2021) MON
 1) pandas_practice_07_ReshapeTable.py
 2) pandas_practice_08_CombineDataFromMultipleTables.py
+3) pandas_practice_09_TimelineWithEase.py
 
