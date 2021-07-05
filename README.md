@@ -13,5 +13,8 @@ dd/mm/yyyy
 
 * Day_2 (04.06.2021) SUN
 1) pandas_practice_06_CalculatingStatistics.py
+
+* Day_3 (05.06.2021) MON
+1) pandas_practice_07_ReshapeTable.py
 2) 
 
