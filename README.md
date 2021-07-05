@@ -18,4 +18,5 @@ dd/mm/yyyy
 1) pandas_practice_07_ReshapeTable.py
 2) pandas_practice_08_CombineDataFromMultipleTables.py
 3) pandas_practice_09_TimelineWithEase.py
+4) pandas_practice_10_ManipulateTextData.py
 
