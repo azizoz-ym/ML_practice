@@ -12,11 +12,14 @@ dd/mm/yyyy
 5) pandas_practice_05_CreateNewColumns.py
 
 * Day_2 (04.06.2021) SUN
-1) pandas_practice_06_CalculatingStatistics.py
+6) pandas_practice_06_CalculatingStatistics.py
 
 * Day_3 (05.06.2021) MON
-1) pandas_practice_07_ReshapeTable.py
-2) pandas_practice_08_CombineDataFromMultipleTables.py
-3) pandas_practice_09_TimelineWithEase.py
-4) pandas_practice_10_ManipulateTextData.py
+7) pandas_practice_07_ReshapeTable.py
+8) pandas_practice_08_CombineDataFromMultipleTables.py
+9) pandas_practice_09_TimelineWithEase.py
+10) pandas_practice_10_ManipulateTextData.py
 
+*Day_4 (06.06.2021) TUE
+11) kaggle_practice_01_DigitRecognizer(solution by shikha1608)
+12) 
