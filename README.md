@@ -20,6 +20,9 @@ dd/mm/yyyy
 9) pandas_practice_09_TimelineWithEase.py
 10) pandas_practice_10_ManipulateTextData.py
 
-*Day_4 (06.06.2021) TUE
+* Day_4 (06.06.2021) TUE
 11) kaggle_practice_01_DigitRecognizer(solution by shikha1608)
-12) 
+
+* Day_5 (07.06.2021) WED
+12) Digit Reconginzer 99% Kaggle solution by @bunnyistaken.py
+13) 
