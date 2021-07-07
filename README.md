@@ -26,4 +26,5 @@ dd/mm/yyyy
 * Day_5 (07.06.2021) WED
 12) Digit Reconginzer 99% Kaggle solution by @bunnyistaken.py
 13) Getting Started with Titanic version 01.py
-14) 
+14) Getting Started with Titanic version 02.py
+15) 
